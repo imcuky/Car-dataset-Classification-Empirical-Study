@@ -1,15 +1,15 @@
-# Classification Empirical Study 📊
+# Classification Empirical Study 
 ## Naïve Bayes vs Logistic Regression
 
-Welcome to the Classification Empirical Study repository! 🚀 In this project, we compare the performance of Naïve Bayes and Logistic Regression models on the Car Evaluation dataset, which is a multi-class classification task. Let's dive into the details:
+In this project, we compare the performance of Naïve Bayes and Logistic Regression models on the Car Evaluation dataset, which is a multi-class classification task.
 
-### Dataset Overview 🚗
+### Dataset Overview 
 - **Dataset:** [Car Evaluation Dataset](https://archive.ics.uci.edu/dataset/19/car+evaluation)
 - **Number of Samples:** 1728
 - **Number of Attributes:** 6
 - **Number of Classes:** 4 (Unacceptable, Acceptable, Good, Very Good)
 
-### Project Overview 📚
+### Project Overview 
 1. **Familiarize with the Task and Dataset**
    - **Goal:** Understand the classification task and dataset characteristics.
    - **Dataset Details:** Explore the number of training examples, features, missing data, etc.
@@ -45,7 +45,3 @@ Welcome to the Classification Empirical Study repository! 🚀 In this project, 
 
 Feel free to explore the detailed notebooks in the 'notebooks' directory for a step-by-step journey through the project.
 
-### Catherine Lee, Fall 2023 🍂
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
